@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodiFy/static/css/main.24b3d75a.css",
+    "main.js": "/CodiFy/static/js/main.08d7e8d8.js",
+    "index.html": "/CodiFy/index.html",
+    "main.24b3d75a.css.map": "/CodiFy/static/css/main.24b3d75a.css.map",
+    "main.08d7e8d8.js.map": "/CodiFy/static/js/main.08d7e8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b3d75a.css",
+    "static/js/main.08d7e8d8.js"
+  ]
+}
